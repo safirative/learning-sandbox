@@ -1,2 +1,2 @@
 # learning-sandbox
-A repository for learning sandbox for web dev
+A repository for safira's learning sandbox
